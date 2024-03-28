@@ -56,6 +56,34 @@
 [Examples] * (MLSys'24) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
 [Examples] * (MLSys'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
 ------------------------------------------------------------------------------- Template (DE NOT DELETE) ----------------------------------------------------------------------------- -->
+* [Accepted Papers](https://mlsys.org/Conferences/2024/AcceptedPapers)
+  
+* (MLSys'24) DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines (link)[] [LLM Training, Diffusion, Pipeline | HKU]
+* (MLSys'24) HeteGen: Efficient Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices (link)[https://arxiv.org/abs/2403.01164] [LLM Inference, Parallism | NUS]
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
+* (MLSys'24) Title (link)[] []
 
-* to be updated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
