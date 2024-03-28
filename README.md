@@ -58,8 +58,8 @@
 ------------------------------------------------------------------------------- Template (DE NOT DELETE) ----------------------------------------------------------------------------- -->
 * [Accepted Papers](https://mlsys.org/Conferences/2024/AcceptedPapers)
   
-* (MLSys'24) DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines [link]() [LLM Training, Diffusion, Pipeline | HKU]
-* (MLSys'24) HeteGen: Efficient Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices [link](https://arxiv.org/abs/2403.01164) [LLM Inference, Parallism | NUS]
+* (MLSys'24) DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines [link]() [Training | HKU]
+* (MLSys'24) HeteGen: Efficient Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices [link](https://arxiv.org/abs/2403.01164) [Parallism | NUS]
 * (MLSys'24) Title [link]() []
 * (MLSys'24) Title [link]() []
 * (MLSys'24) Title [link]() []
