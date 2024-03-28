@@ -11,25 +11,25 @@
 
 
 
-[//] =============================================================================================================================================================================
+[//]: =============================================================================================================================================================================
 ## awesome arxiv papers
 
-[//] ---------------------------------------------------------------------------------- Template ----------------------------------------------------------------------------------
-[//] [Template] * (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
-[//] [Examples] * (NIPS'17) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
-[//] [Examples] * (Arxiv'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
-[//] ---------------------------------------------------------------------------------- Template ----------------------------------------------------------------------------------
+[//]: ---------------------------------------------------------------------------------- Template ----------------------------------------------------------------------------------
+[//]: [Template] * (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
+[//]: [Examples] * (NIPS'17) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
+[//]: [Examples] * (Arxiv'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
+[//]: ---------------------------------------------------------------------------------- Template ----------------------------------------------------------------------------------
 
 * to be updated
 
 
 ## [OSDI 2024](https://www.usenix.org/conference/osdi24)
 
-[//] ================================================================================= Template ==================================================================================
-[//] [Template] (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
-[//] [Examples] (OSDI'24) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
-[//] [Examples] (OSDI'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
-[//] ================================================================================= Template ==================================================================================
+[//]: ================================================================================= Template ==================================================================================
+[//]: [Template] (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
+[//]: [Examples] (OSDI'24) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
+[//]: [Examples] (OSDI'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
+[//]: ================================================================================= Template ==================================================================================
 
 * to be updated
 
@@ -37,11 +37,11 @@
 
 ## [NSDI 2024](https://)
 
-[//] ================================================================================= Template ==================================================================================
-[//] [Template] (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
-[//] [Examples] (OSDI'24) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
-[//] [Examples] (OSDI'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
-[//] ================================================================================= Template ==================================================================================
+[//]: ================================================================================= Template ==================================================================================
+[//]: [Template] (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
+[//]: [Examples] (OSDI'24) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
+[//]: [Examples] (OSDI'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
+[//]: ================================================================================= Template ==================================================================================
 
 * to be updated
 
@@ -49,11 +49,11 @@
 
 ## [MLSys 2024](https://mlsys.org/virtual/2024/papers.html?filter=titles)
 
-[//] ================================================================================= Template ==================================================================================
-[//] [Template] (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
-[//] [Examples] (OSDI'24) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
-[//] [Examples] (OSDI'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
-[//] ================================================================================= Template ==================================================================================
+[//]: ================================================================================= Template ==================================================================================
+[//]: [Template] (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
+[//]: [Examples] (OSDI'24) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
+[//]: [Examples] (OSDI'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding (link)[https://arxiv.org/abs/2403.10444] [Speculative Decoding | Google]
+[//]: ================================================================================= Template ==================================================================================
 
 * to be updated
 
