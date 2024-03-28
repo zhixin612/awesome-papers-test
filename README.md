@@ -1,6 +1,6 @@
 # awesome-papers
 
-## usefull website
+## useful website
 
 * Arxiv-CS-RAG: [https://huggingface.co/spaces/bishmoy/Arxiv-CS-RAG](https://huggingface.co/spaces/bishmoy/Arxiv-CS-RAG)
 * Papes.cool:
@@ -11,7 +11,7 @@
 
 
 
-## awesome arxiv papers
+## awesome papers
 <!-- -------------------------------------------------------------------------- Template (DE NOT DELETE) -----------------------------------------------------------------------------
 [Template] * (conf/trans/arxiv) Paper title (link)[http_source_link] [NOTE: key words / author / affiliation]
 [Examples] * (NIPS'17) Attention Is All You Need (link)[https://arxiv.org/abs/1706.03762] [Attention | Google]
