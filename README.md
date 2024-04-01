@@ -60,14 +60,33 @@
 [Examples] * (MLSys'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding [link](https://arxiv.org/abs/2403.10444) [Speculative Decoding | Google]
 ------------------------------------------------------------------------------- Template (DE NOT DELETE) ----------------------------------------------------------------------------- -->
 * [Accepted Papers](https://mlsys.org/Conferences/2024/AcceptedPapers)
-  
-* (MLSys'24) DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines [link]() [Training | HKU]
-* (MLSys'24) HeteGen: Efficient Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices [link](https://arxiv.org/abs/2403.01164) [Parallism | NUS]
-* (MLSys'24) Title [link]() []
-* (MLSys'24) Title [link]() []
-* (MLSys'24) Title [link]() []
-* (MLSys'24) Title [link]() []
 
+#### LLM - serving
+* (MLSys'24) HeteGen: Efficient Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices [paper](https://arxiv.org/abs/2403.01164) [**Inference** | **Parallelism** | NUS]
+* (MLSys'24) FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics [paper](https://arxiv.org/abs/2311.01282) [**Inference** | Tsinghua | SJTU]
+* (MLSys'24) VIDUR: A LARGE-SCALE SIMULATION FRAMEWORK FOR LLM INFERENCE [paper]() [**Inference** | **Simulation Framework** | Microsoft]
+* (MLSys'24) UniDM: A Unified Framework for Data Manipulation with Large Language Models [paper](https://arxiv.org/abs/2402.03009) [**Inference** | **Memory** | **Long Context** | Alibaba]
+* (MLSys'24) SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models [paper](https://arxiv.org/abs/2310.18859) [**Serving** | **MoE**]
+* (MLSys'24) Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference [paper](https://arxiv.org/abs/2403.09054) [**Inference** | **KV Cache**]
+* (MLSys'24) Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache [paper](https://arxiv.org/abs/2306.14048) [**Inference** | **KV Cache**]
+* (MLSys'24) Prompt Cache: Modular Attention Reuse for Low-Latency Inference [paper](https://arxiv.org/abs/2311.04934) [**Inference** | **KV Cache** | Yale]
+* (MLSys'24) SLoRA: Scalable Serving of Thousands of LoRA Adapters [paper](https://arxiv.org/abs/2311.03285) [code](https://github.com/S-LoRA/S-LoRA) [**Serving** | **LoRA** | Stanford | Berkerley]
+* (MLSys'24) Punica: Multi-Tenant LoRA Serving [paper](https://arxiv.org/abs/2310.18547) [code](https://github.com/punica-ai/punica) [**Serving** | **LoRA** | Tianqi Chen]
+
+#### LLM - training and quantization
+* (MLSys'24) AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration [paper](https://arxiv.org/abs/2306.00978) [code](https://github.com/mit-han-lab/llm-awq) [**Quantization** | MIT]
+* (MLSys'24) Efficient Post-training Quantization with FP8 Formats [paper](https://arxiv.org/abs/2309.14592) [**Quantization** | Intel]
+* (MLSys'24) Does Compressing Activations Help Model Parallel Training? [paper](https://arxiv.org/abs/2301.02654) [**Quantization**]
+* (MLSys'24) Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving [paper](https://arxiv.org/abs/2310.19102) [code](https://github.com/efeslab/Atom) [**Quantization** | **Serving** | SJTU | CMU]
+* (MLSys'24) QMoE: Sub-1-Bit Compression of Trillion Parameter Models [paper](https://arxiv.org/abs/2310.16795) [code](https://github.com/IST-DASLab/qmoe) [**Quantization** | **MoE** | Google]
+* (MLSys'24) Lancet: Accelerating Mixture-of-Experts Training by Overlapping Weight Gradient Computation and All-to-All Communication [paper]() [**Training** | **MoE** | HKU]
+* (MLSys'24) DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines [paper]() [**Training** | **Diffusion** | HKU]
+
+#### ML Serving
+* (MLSys'24) FLASH: Fast Model Adaptation in ML-Centric Cloud Platforms [paper](https://haoran-qiu.com/publication/mlsys-2024/) [code](https://gitlab.engr.illinois.edu/DEPEND/flash) [MLsys | UIUC]
+* (MLSys'24) ACROBAT: Optimizing Auto-batching of Dynamic Deep Learning at Compile Time [paper](https://arxiv.org/abs/2305.10611) [**Compiling** | **Batching** | CMU]
+* (MLSys'24) On Latency Predictors for Neural Architecture Search [paper](https://arxiv.org/abs/2403.02446) [Google]
+* (MLSys'24) vMCU: Coordinated Memory Management and Kernel Optimization for DNN Inference on MCUs [paper](https://arxiv.org/abs/2001.03288) [**DNN Inference** | PKU]
 
 
 
