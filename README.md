@@ -48,6 +48,7 @@
 ------------------------------------------------------------------------------- Template (DE NOT DELETE) ----------------------------------------------------------------------------- -->
 
 * to be updated
+* (NSDI'24) MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs [link](https://arxiv.org/abs/2402.15627) [Training|Bytedance]
 
 
 
