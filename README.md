@@ -60,8 +60,8 @@
   
 * (MLSys'24) DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines [link]() [Training | HKU]
 * (MLSys'24) HeteGen: Efficient Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices [link](https://arxiv.org/abs/2403.01164) [Parallism | NUS]
-* (MLSys'24) Title [link]() []
-* (MLSys'24) Title [link]() []
+* (MLSys'24) Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve [link](https://arxiv.org/abs/2403.02310) []
+* (MLSys'24) DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving[link](https://arxiv.org/pdf/2401.09670.pdf) [PKU]
 * (MLSys'24) Title [link]() []
 * (MLSys'24) Title [link]() []
 
