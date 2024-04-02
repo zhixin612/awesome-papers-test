@@ -35,8 +35,6 @@
 * to be updated
 * (OSDI'24) Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve [link](https://arxiv.org/abs/2403.02310) []
 * (OSDI'24) DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving [link](https://arxiv.org/pdf/2401.09670.pdf) [PKU]
-* (OSDI'24) DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large
- Language Model Serving [link](https://arxiv.org/pdf/2401.09670.pdf)[PKU]
 * (OSDI'24) Fairness in Serving Large Language Models [link](https://arxiv.org/abs/2401.00588)[Ion Stoica]
 
 
