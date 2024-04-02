@@ -69,7 +69,7 @@
 #### LLM - serving
 * (MLSys'24) HeteGen: Efficient Heterogeneous Parallel Inference for Large Language Models on Resource-Constrained Devices [paper](https://arxiv.org/abs/2403.01164) [**Inference** | **Parallelism** | NUS]
 * (MLSys'24) FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics [paper](https://arxiv.org/abs/2311.01282) [**Inference** | Tsinghua | SJTU]
-* (MLSys'24) VIDUR: A LARGE-SCALE SIMULATION FRAMEWORK FOR LLM INFERENCE [paper]() [**Inference** | **Simulation Framework** | Microsoft]
+* (MLSys'24) VIDUR: A LARGE-SCALE SIMULATION FRAMEWORK FOR LLM INFERENCE [-]() [**Inference** | **Simulation Framework** | Microsoft]
 * (MLSys'24) UniDM: A Unified Framework for Data Manipulation with Large Language Models [paper](https://arxiv.org/abs/2402.03009) [**Inference** | **Memory** | **Long Context** | Alibaba]
 * (MLSys'24) SiDA: Sparsity-Inspired Data-Aware Serving for Efficient and Scalable Large Mixture-of-Experts Models [paper](https://arxiv.org/abs/2310.18859) [**Serving** | **MoE**]
 * (MLSys'24) Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference [paper](https://arxiv.org/abs/2403.09054) [**Inference** | **KV Cache**]
@@ -84,8 +84,8 @@
 * (MLSys'24) Does Compressing Activations Help Model Parallel Training? [paper](https://arxiv.org/abs/2301.02654) [**Quantization**]
 * (MLSys'24) Atom: Low-Bit Quantization for Efficient and Accurate LLM Serving [paper](https://arxiv.org/abs/2310.19102) [code](https://github.com/efeslab/Atom) [**Quantization** | **Serving** | SJTU | CMU]
 * (MLSys'24) QMoE: Sub-1-Bit Compression of Trillion Parameter Models [paper](https://arxiv.org/abs/2310.16795) [code](https://github.com/IST-DASLab/qmoe) [**Quantization** | **MoE** | Google]
-* (MLSys'24) Lancet: Accelerating Mixture-of-Experts Training by Overlapping Weight Gradient Computation and All-to-All Communication [paper]() [**Training** | **MoE** | HKU]
-* (MLSys'24) DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines [paper]() [**Training** | **Diffusion** | HKU]
+* (MLSys'24) Lancet: Accelerating Mixture-of-Experts Training by Overlapping Weight Gradient Computation and All-to-All Communication [-]() [**Training** | **MoE** | HKU]
+* (MLSys'24) DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines [-]() [**Training** | **Diffusion** | HKU]
 
 #### ML Serving
 * (MLSys'24) FLASH: Fast Model Adaptation in ML-Centric Cloud Platforms [paper](https://haoran-qiu.com/publication/mlsys-2024/) [code](https://gitlab.engr.illinois.edu/DEPEND/flash) [MLsys | UIUC]
