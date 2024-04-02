@@ -50,6 +50,12 @@
 
 * to be updated
 * (NSDI'24) MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs [link](https://arxiv.org/abs/2402.15627) [Training|Bytedance]
+* (NSDI'24) DISTMM: Accelerating Distributed Multimodal Model Training [link](https://www.amazon.science/publications/distmm-accelerating-distributed-multimodal-model-training) [multi-model|Amazon]
+* (NSDI'24) Approximate Caching for Efficiently Serving Text-to-Image Diffusion Models [link](https://arxiv.org/abs/2312.04429#:~:text=In%20this%20paper%2C%20we%20introduce,image%20generation%20for%20similar%20prompts.) []
+* (NSDI'24) Swing: Short-cutting Rings for Higher Bandwidth Allreduce [link](https://arxiv.org/abs/2401.09356) [Allreduce]
+* (NSDI'24) Vulcan: Automatic Query Planning for Live ML Analytics [link](https://yiwenzhang92.github.io/assets/docs/vulcan-nsdi24.pdf) [Planning]
+* (NSDI'24) CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters [link](https://arxiv.org/abs/2308.00852) [Communication]
+* (NSDI'24) Towards Domain-Specific Network Transport for Distributed DNN Training [link](https://arxiv.org/abs/2008.08445) [Training | DNN]
 
 
 
