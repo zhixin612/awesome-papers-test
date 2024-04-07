@@ -8,7 +8,9 @@
   * [https://papers.cool/arxiv/cs.DC](https://papers.cool/arxiv/cs.DC): Distributed, Parallel, and Cluster Computing
   * [https://papers.cool/arxiv/cs.OS](https://papers.cool/arxiv/cs.OS): Operating Systems
   * [https://papers.cool/arxiv/cs.CL](https://papers.cool/arxiv/cs.CL): Computation and Language
-
+* Find Related Papers
+  * Connect Papers: [https://www.connectedpapers.com/](https://www.connectedpapers.com)
+  * Sematic Scholar: [https://www.semanticscholar.org/](https://www.semanticscholar.org)
 
 
 ## awesome papers
