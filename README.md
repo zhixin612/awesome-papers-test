@@ -19,14 +19,18 @@
 [Examples] * (Arxiv'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding [link](https://arxiv.org/abs/2403.10444) [Speculative Decoding | Google]
 ------------------------------------------------------------------------------- Template (DE NOT DELETE) ----------------------------------------------------------------------------- -->
 
-* to be updated
+---
+## TODO list
+* ICML'24
+* SOSP'23
+* PPoPP'24
 
 ---
 ## [arxiv papers]
 * NanoFlow: Towards Optimal Large Language Model Serving Throughput [2408.12757](https://arxiv.org/abs/2408.12757) [github](https://github.com/efeslab/Nanoflow)
 * Efficient LLM Scheduling by Learning to Rank [2408.15792](http://www.arxiv.org/abs/2408.15792) [Hao-ai-lab]
 * DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers [2403.10266](https://arxiv.org/abs/2403.10266)
-* Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference [2406.10774](https://arxiv.org/abs/2406.10774) [github](https://github.com/mit-han-lab/Quest)
+* [ICML'24] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference [2406.10774](https://arxiv.org/abs/2406.10774) [github](https://github.com/mit-han-lab/Quest)
 * [COLM'24] Keep the Cost Down: A Review on Methods to Optimize LLM's KV-Cache Consumption [paper](https://openreview.net/forum?id=8tKjqqMM5z#discussion)
 * Slice-Level Scheduling for High Throughput and Load Balanced LLM Serving [2406.13511](https://arxiv.org/abs/2406.13511)
 * LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism [2404.09526](https://arxiv.org/abs/2404.09526)
