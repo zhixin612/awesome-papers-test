@@ -22,6 +22,17 @@
 * to be updated
 
 ---
+## [arxiv papers]
+* NanoFlow: Towards Optimal Large Language Model Serving Throughput [2408.12757](https://arxiv.org/abs/2408.12757) [github](https://github.com/efeslab/Nanoflow)
+* Efficient LLM Scheduling by Learning to Rank [2408.15792](http://www.arxiv.org/abs/2408.15792) [Hao-ai-lab]
+* DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers [2403.10266](https://arxiv.org/abs/2403.10266)
+* Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference [2406.10774](https://arxiv.org/abs/2406.10774) [github](https://github.com/mit-han-lab/Quest)
+* [COLM'24] Keep the Cost Down: A Review on Methods to Optimize LLM's KV-Cache Consumption [paper](https://openreview.net/forum?id=8tKjqqMM5z#discussion)
+* Slice-Level Scheduling for High Throughput and Load Balanced LLM Serving [2406.13511](https://arxiv.org/abs/2406.13511)
+* LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism [2404.09526](https://arxiv.org/abs/2404.09526)
+
+
+---
 ## [ATC 2024](https://www.usenix.org/conference/atc24/technical-sessions)
 ### ML Inference
 * Power-aware Deep Learning Model Serving with μ-Serve
