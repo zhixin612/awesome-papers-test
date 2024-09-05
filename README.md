@@ -12,7 +12,6 @@
   * Connect Papers: [https://www.connectedpapers.com/](https://www.connectedpapers.com)
   * Sematic Scholar: [https://www.semanticscholar.org/](https://www.semanticscholar.org)
 
-
 ## awesome papers
 <!-- -------------------------------------------------------------------------- Template (DE NOT DELETE) -----------------------------------------------------------------------------
 [Template] * (conf/trans/arxiv) Paper title [link](http_source_link) [NOTE: key words / author / affiliation]
@@ -22,32 +21,69 @@
 
 * to be updated
 
+---
+## [ATC 2024](https://www.usenix.org/conference/atc24/technical-sessions)
+### ML Inference
+* Power-aware Deep Learning Model Serving with μ-Serve
+* Cost-Efficient Large Language Model Serving for Multi-turn Conversations with CachedAttention
+* PUZZLE: Efficiently Aligning Large Language Models through Light-Weight Context Switch
+* Quant-LLM: Accelerating the Serving of Large Language Models via FP6-Centric Algorithm-System Co-Design on Modern GPUs
+## ML Training
+* Accelerating the Training of Large Language Models using Efficient Activation Rematerialization and Optimal Hybrid Parallelism
+* Metis: Fast Automatic Distributed Training on Heterogeneous GPUs
+* FwdLLM: Efficient Federated Finetuning of Large Language Models with Perturbed Inferences
 
 
+---
+## [EuroSys 2024](https://dl.acm.org/doi/proceedings/10.1145/3627703)
+* Aceso: Efficient Parallel DNN Training through Iterative Bottleneck Alleviation
+* Model Selection for Latency-Critical Inference Serving
+* Optimus: Warming Serverless ML Inference via Inter-Function Model Transformation
+* CDMPP: A Device-Model Agnostic Framework for Latency Prediction of Tensor Programs
+* Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications
+* HAP: SPMD DNN Training on Heterogeneous GPU Clusters with Automated Program Synthesis
+* Blox: A Modular Toolkit for Deep Learning Schedulers
+* DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines
+* GMorph: Accelerating Multi-DNN Inference via Model Fusion
+* ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling
+* ZKML: An Optimizing System for ML Inference in Zero-Knowledge Proofs
 
 
+---
+## [ASPLOS 2024](https://dl.acm.org/doi/proceedings/10.1145/3620666)
+* 8-bit Transformer Inference and Fine-tuning for Edge Accelerators
+* AdaPipe: Optimizing Pipeline Parallelism with Adaptive Recomputation and Partitioning
+* Centauri: Enabling Efficient Scheduling for Communication-Computation Overlap in Large Model Training via Communication Partitioning
+* Characterizing Power Management Opportunities for LLMs in the Cloud
+* FaaSMem: Improving Memory Efficiency of Serverless Computing with Memory Pool Architecture
+* Fractal: Joint Multi-Level Sparse Pattern Tuning of Accuracy and Performance for DNN Pruning
+* FUYAO: DPU-enabled Direct Data Transfer for Serverless Computing
+* NeuPIMs: NPU-PIM Heterogeneous Acceleration for Batched LLM Inferencing
+* PrimePar: Efficient Spatial-temporal Tensor Partitioning for Large Transformer Model Training
+* SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification
+* SpecPIM: Accelerating Speculative Inference on PIM-Enabled System via Architecture-Dataflow Co-Exploration
 
+
+---
 ## [OSDI 2024](https://www.usenix.org/conference/osdi24)
-<!-- -------------------------------------------------------------------------- Template (DE NOT DELETE) -----------------------------------------------------------------------------
-[Template] * (conf/trans/arxiv) Paper title [link](http_source_link) [NOTE: key words / author / affiliation]
-[Examples] * (OSDI'24) Attention Is All You Need [link](https://arxiv.org/abs/1706.03762) [Attention | Google]
-[Examples] * (OSDI'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding [link](https://arxiv.org/abs/2403.10444) [Speculative Decoding | Google]
-------------------------------------------------------------------------------- Template (DE NOT DELETE) ----------------------------------------------------------------------------- -->
 
-* to be updated
-* (OSDI'24) Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve [link](https://arxiv.org/abs/2403.02310) []
-* (OSDI'24) DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving [link](https://arxiv.org/pdf/2401.09670.pdf) [PKU]
-* (OSDI'24) Fairness in Serving Large Language Models [link](https://arxiv.org/abs/2401.00588)[Ion Stoica]
-* (OSDI'24) ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models [link]([https://arxiv.org/abs/2401.00588](https://arxiv.org/abs/2401.14351))[Serveless]
+### LLM Serving 
+* Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve [link](https://arxiv.org/abs/2403.02310) []
+* DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving [link](https://arxiv.org/pdf/2401.09670.pdf) [PKU]
+* Fairness in Serving Large Language Models [link](https://arxiv.org/abs/2401.00588)[Ion Stoica]
+* ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models [link]([https://arxiv.org/abs/2401.00588](https://arxiv.org/abs/2401.14351))[Serveless]
+* InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management
+* Llumnix: Dynamic Scheduling for Large Language Model Serving
+### ML Scheduling
+* Parrot: Efficient Serving of LLM-based Applications with Semantic Variable
+* USHER: Holistic Interference Avoidance for Resource Optimized ML Inference
+* Fairness in Serving Large Language Models
+* MonoNN: Enabling a New Monolithic Optimization Space for Neural Network Inference Tasks on Modern GPU-Centric Architectures
+* MAST: Global Scheduling of ML Training across Geo-Distributed Datacenters at Hyperscale
 
 
-
+---
 ## [NSDI 2024](https://)
-<!-- -------------------------------------------------------------------------- Template (DE NOT DELETE) -----------------------------------------------------------------------------
-[Template] * (conf/trans/arxiv) Paper title [link](http_source_link) [NOTE: key words / author / affiliation]
-[Examples] * (NSDI'24) Attention Is All You Need [link](https://arxiv.org/abs/1706.03762) [Attention | Google]
-[Examples] * (NSDI'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding [link](https://arxiv.org/abs/2403.10444) [Speculative Decoding | Google]
-------------------------------------------------------------------------------- Template (DE NOT DELETE) ----------------------------------------------------------------------------- -->
 
 * to be updated
 * (NSDI'24) MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs [link](https://arxiv.org/abs/2402.15627) [Training|Bytedance]
@@ -59,14 +95,9 @@
 * (NSDI'24) Towards Domain-Specific Network Transport for Distributed DNN Training [link](https://arxiv.org/abs/2008.08445) [Training | DNN]
 
 
-
-
+---
 ## [MLSys 2024](https://mlsys.org/virtual/2024/papers.html?filter=titles)
-<!-- -------------------------------------------------------------------------- Template (DE NOT DELETE) -----------------------------------------------------------------------------
-[Template] * (conf/trans/arxiv) Paper title [link](http_source_link) [NOTE: key words / author / affiliation]
-[Examples] * (MLSys'24) Attention Is All You Need [link](https://arxiv.org/abs/1706.03762) [Attention | Google]
-[Examples] * (MLSys'24) Optimal Block-Level Draft Verification for Accelerating Speculative Decoding [link](https://arxiv.org/abs/2403.10444) [Speculative Decoding | Google]
-------------------------------------------------------------------------------- Template (DE NOT DELETE) ----------------------------------------------------------------------------- -->
+
 * [Accepted Papers](https://mlsys.org/Conferences/2024/AcceptedPapers)
 
 #### LLM - serving
