@@ -21,10 +21,10 @@
 
 ---
 ## TODO list
-* SC'24
+* [SC'24](https://sc24.conference-program.com/)
 * ICML'24
 * SOSP'23
-* PPoPP'24
+* [PPoPP'24](https://conf.researchr.org/track/PPoPP-2024/PPoPP-2024-papers#event-overview)
 * SIGCOMM'24
 
 ---
