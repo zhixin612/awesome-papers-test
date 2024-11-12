@@ -23,9 +23,7 @@
 ## TODO list
 * [SC'24](https://sc24.conference-program.com/)
 * ICML'24
-* SOSP'23
 * [PPoPP'24](https://conf.researchr.org/track/PPoPP-2024/PPoPP-2024-papers#event-overview)
-* SIGCOMM'24
 
 ---
 ## [arxiv papers]
@@ -37,6 +35,15 @@
 * Slice-Level Scheduling for High Throughput and Load Balanced LLM Serving [2406.13511](https://arxiv.org/abs/2406.13511)
 * LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism [2404.09526](https://arxiv.org/abs/2404.09526)
 
+
+---
+## [SIGCOMM 2024](https://conferences.sigcomm.org/sigcomm/2024/accepted-papers/)
+* CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving
+### Networking and Training
+* NetLLM: Adapting Large Language Models for Networking
+* Accelerating Model Training in Multi-cluster Environments with Consumer-grade GPUs
+* Alibaba HPN: A Data Center Network for Large Language Model Training
+* Crux: GPU-Efficient Communication Scheduling for Deep Learning Training
 
 ---
 ## [HPCA 2024](https://ieeexplore.ieee.org/document/10476401)
