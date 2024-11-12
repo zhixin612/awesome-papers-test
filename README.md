@@ -21,6 +21,7 @@
 
 ---
 ## TODO list
+* SC'24
 * ICML'24
 * SOSP'23
 * PPoPP'24
@@ -34,6 +35,34 @@
 * [COLM'24] Keep the Cost Down: A Review on Methods to Optimize LLM's KV-Cache Consumption [paper](https://openreview.net/forum?id=8tKjqqMM5z#discussion)
 * Slice-Level Scheduling for High Throughput and Load Balanced LLM Serving [2406.13511](https://arxiv.org/abs/2406.13511)
 * LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism [2404.09526](https://arxiv.org/abs/2404.09526)
+
+
+---
+## [HPCA 2024](https://ieeexplore.ieee.org/document/10476401)
+* Smart-Infinity: Fast **Large Language Model Training** using Near-Storage Processing on a Real System
+* ASADI: Accelerating **Sparse Attention** Using Diagonal-based In-Situ Computing
+* Tessel: Boosting **Distributed Execution** of Large DNN Models via **Flexible Schedule Search**
+* Enabling Large Dynamic **Neural Network Training** with Learning-based **Memory Management**
+* LibPreemptible: Enabling Fast, Adaptive, and Hardware-Assisted User-Space Scheduling
+* TinyTS: Memory-Efficient **TinyML Model Compiler** Framework on Microcontrollers
+* GPU Scale-Model Simulation
+
+
+---
+## [SOSP 2024](https://sigops.org/s/conferences/sosp/2024/accepted.html)
+### ML Inference
+* LoongServe: Efficiently Serving **Long-Context Large Language Models** with Elastic Sequence Parallelism
+* PowerInfer: Fast **Large Language Model Serving** with a **Consumer-grade GPU**
+* Apparate: Rethinking **Early Exits** to Tame Latency-Throughput Tensions in **ML Serving**
+* Improving **DNN Inference Throughput** Using Practical, Per-Input Compute Adaptation
+### ML Training
+* Enabling Parallelism **Hot Switching** for Efficient **Training of Large Language Models**
+* Reducing Energy Bloat in **Large Model Training**
+* ReCycle: Pipeline Adaptation for the Resilient Distributed **Training of Large DNNs**
+### Other
+* Tenplex: Dynamic Parallelism for Deep Learning using Parallelizable Tensor Collections
+* Scaling Deep Learning Computation over the Inter-Core Connected Intelligence Processor with T10
+* Uncovering Nested Data Parallelism and Data Reuse in DNN Computation with FractalTensor
 
 
 ---
