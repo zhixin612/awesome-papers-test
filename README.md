@@ -179,7 +179,7 @@
 * (MLSys'24) On Latency Predictors for Neural Architecture Search [paper](https://arxiv.org/abs/2403.02446) [Google]
 * (MLSys'24) vMCU: Coordinated Memory Management and Kernel Optimization for DNN Inference on MCUs [paper](https://arxiv.org/abs/2001.03288) [**DNN Inference** | PKU]
 
-#### Retrieval-Augmented Generation
+## Retrieval-Augmented Generation
 * (arxiv) RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation [paper](https://arxiv.org/abs/2404.12457)
 * (NSDI'24) Fast Vector Query Processing for Large Datasets Beyond GPU Memory with Reordered Pipelining [paper](https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-pipelining)
 * (Sigcomm'24) CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving [paper](https://arxiv.org/abs/2310.07240)
