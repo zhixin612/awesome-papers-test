@@ -185,6 +185,7 @@
 * (Sigcomm'24) CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving [paper](https://arxiv.org/abs/2310.07240)
 * (EuroSys'25) CacheBlend: Fast Large Language Model Serving for RAG with Cached Knowledge Fusion [paper](https://arxiv.org/abs/2405.16444) [code](https://github.com/YaoJiayi/CacheBlend)
 * (EuroSys'25) Fast State Restoration in LLM Serving with HCache [paper](https://arxiv.org/abs/2410.05004)
+* (OSDI'24) Parrot: Efficient Serving of LLM-based Applications with Semantic Variable [paper](https://arxiv.org/abs/2405.19888)
 
 
 
