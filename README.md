@@ -187,6 +187,7 @@
 * (EuroSys'25) Fast State Restoration in LLM Serving with HCache [paper](https://arxiv.org/abs/2410.05004)
 * (OSDI'24) Parrot: Efficient Serving of LLM-based Applications with Semantic Variable [paper](https://arxiv.org/abs/2405.19888)
 * (arxiv) RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation [paper](https://arxiv.org/pdf/2403.05313) [code](https://github.com/CraftJarvis/RAT)
+* (MLSys'24) Prompt Cache: Modular Attention Reuse for Low-Latency Inference [paper](https://arxiv.org/abs/2311.04934) [**Inference** | **KV Cache** | Yale]
 
 
 
