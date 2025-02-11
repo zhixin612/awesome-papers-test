@@ -26,7 +26,7 @@ github_token = 'XXXXXXX'
 repo_owner = 'TJU-NSL'  
 repo_name = 'awesome-papers'  
 file_path = 'daily-arxiv-llm.md' 
-branch = 'main
+branch = 'main'
 ```
 
 + Set keywords, and the script will select papers whose titles and abstracts contain those keywords and filter them accordingly.
