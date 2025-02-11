@@ -1,9 +1,5 @@
 The paper list will be updated automatically, please do not edit.
 
-### 2025-02-10
-
-* [EcoServe: Designing Carbon-Aware AI Inference Systems](https://arxiv.org/abs/2502.05043)
-* [WaferLLM: A Wafer-Scale LLM Inference System](https://arxiv.org/abs/2502.04563)
 
 ### 2025-02-07
 
