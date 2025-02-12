@@ -120,9 +120,9 @@ if __name__ == "__main__":
     tz = pytz.timezone("Asia/Shanghai")
     now = datetime.now(tz)
 
-    start_date = (now - timedelta(days=42)).strftime("%Y-%m-%d")
+    start_date = (now - timedelta(days=1)).strftime("%Y-%m-%d")
     print(start_date)
-    end_date = (now - timedelta(days=2)).strftime("%Y-%m-%d")
+    end_date = (now - timedelta(days=1)).strftime("%Y-%m-%d")
     # end_date = now.strftime("%Y-%m-%d")  # 今天
 
     main(start_date, end_date)
