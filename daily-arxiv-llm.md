@@ -1,5 +1,10 @@
 The paper list will be updated automatically, please do not edit.
 
+### 2025-02-11
+
+* [MoETuner: Optimized Mixture of Expert Serving with Balanced Expert Placement and Token Routing](https://arxiv.org/abs/2502.06643)
+* [fMoE: Fine-Grained Expert Offloading for Large Mixture-of-Experts Serving](https://arxiv.org/abs/2502.05370)
+
 
 ### 2025-02-10
 
