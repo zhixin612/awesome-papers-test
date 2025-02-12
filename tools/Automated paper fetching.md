@@ -19,7 +19,7 @@
 
 ## Usage
 
-+ The script uses two files under the "tools/" directory: `keyword-accept.csv` and `keyword-reject.csv`. These files are used to filter papers based on keywords. You can modify these files to set the filtering strategy.
++ The script uses two files under the "tools/" directory: `keyword-accept.csv` and `keyword-reject.csv`. These files are used to filter papers based on keywords. You can modify these files to set the filtering strategy. However, you must ensure that the `keyword-reject.csv` file contains at least one keyword, otherwise no papers will be crawled. The reason for this is unclear.
 
 + Select the time period for scraping papers.
 
