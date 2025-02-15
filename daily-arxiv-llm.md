@@ -1,5 +1,9 @@
 The paper list will be updated automatically, please do not edit.
 
+### 2025-02-14
+
+* [ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments](https://arxiv.org/abs/2502.09334)
+
 ### 2025-02-13
 
 * [Memory Offloading for Large Language Model Inference with Latency SLO Guarantees](https://arxiv.org/abs/2502.08182)
