@@ -1,5 +1,9 @@
 The paper list will be updated automatically, please do not edit.
 
+### 2025-02-17
+
+* [λScale: Enabling Fast Scaling for Serverless Large Language Model Inference](https://arxiv.org/abs/2502.09922)
+
 ### 2025-02-14
 
 * [ThunderServe: High-performance and Cost-efficient LLM Serving in Cloud Environments](https://arxiv.org/abs/2502.09334)
