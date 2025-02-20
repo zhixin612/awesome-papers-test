@@ -1,5 +1,12 @@
 The paper list will be updated automatically, please do not edit.
 
+### 2025-02-19
+
+* [SparkAttention: High-Performance Multi-Head Attention for Large Models on Volta GPU Architecture](https://arxiv.org/abs/2502.12784)
+* [Distributed On-Device LLM Inference With Over-the-Air Computation](https://arxiv.org/abs/2502.12559)
+* [Understanding Silent Data Corruption in LLM Training](https://arxiv.org/abs/2502.12340)
+* [Semantica: Decentralized Search using a LLM-Guided Semantic Tree Overlay](https://arxiv.org/abs/2502.10151)
+
 ### 2025-02-18
 
 * [Scalable and Cost-Efficient ML Inference: Parallel Batch Processing with Serverless Functions](https://arxiv.org/abs/2502.12017)
