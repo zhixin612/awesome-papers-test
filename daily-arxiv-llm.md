@@ -1,5 +1,10 @@
 The paper list will be updated automatically, please do not edit.
 
+### 2025-03-04
+
+* [Balanced segmentation of CNNs for multi-TPU inference](https://arxiv.org/abs/2503.01035)
+* [Improving inference time in multi-TPU systems with profiled model segmentation](https://arxiv.org/abs/2503.01025)
+
 ### 2025-03-03
 
 * [ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs](https://arxiv.org/abs/2502.21231)
