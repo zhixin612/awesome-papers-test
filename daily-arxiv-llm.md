@@ -1,5 +1,10 @@
 The paper list will be updated automatically, please do not edit.
 
+### 2025-03-06
+
+* [Environment-Aware Dynamic Pruning for Pipelined Edge Inference](https://arxiv.org/abs/2503.03070)
+* [Deal: Distributed End-to-End GNN Inference for All Nodes](https://arxiv.org/abs/2503.02960)
+
 ### 2025-03-04
 
 * [Balanced segmentation of CNNs for multi-TPU inference](https://arxiv.org/abs/2503.01035)
