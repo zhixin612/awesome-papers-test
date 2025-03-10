@@ -3,20 +3,10 @@ The paper list will be updated automatically, please do not edit.
 ### 2025-03-06
 
 * [Environment-Aware Dynamic Pruning for Pipelined Edge Inference](https://arxiv.org/abs/2503.03070)
-* [Deal: Distributed End-to-End GNN Inference for All Nodes](https://arxiv.org/abs/2503.02960)
 
 ### 2025-03-04
 
-* [Balanced segmentation of CNNs for multi-TPU inference](https://arxiv.org/abs/2503.01035)
 * [Improving inference time in multi-TPU systems with profiled model segmentation](https://arxiv.org/abs/2503.01025)
-
-### 2025-03-03
-
-* [ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs](https://arxiv.org/abs/2502.21231)
-* [TeleRAG: Efficient Retrieval-Augmented Generation Inference with Lookahead Retrieval](https://arxiv.org/abs/2502.20969)
-* [Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management](https://arxiv.org/abs/2502.20959)
-* [SkyStore: Cost-Optimized Object Storage Across Regions and Clouds](https://arxiv.org/abs/2502.20818)
-* [LADs: Leveraging LLMs for AI-Driven DevOps](https://arxiv.org/abs/2502.20825)
 
 ### 2025-03-03
 
@@ -35,7 +25,6 @@ The paper list will be updated automatically, please do not edit.
 * [CLLoRA: An Approach to Measure the Effects of the Context Length for LLM Fine-Tuning](https://arxiv.org/abs/2502.18910)
 
 
-
 ### 2025-02-24
 
 * [Towards Swift Serverless LLM Cold Starts with ParaServe](https://arxiv.org/abs/2502.15524)
@@ -47,7 +36,6 @@ The paper list will be updated automatically, please do not edit.
 * [Optimizing the Longhorn Cloud-native Software Defined Storage Engine for High Performance](https://arxiv.org/abs/2502.14419)
 * [CarbonEdge: Leveraging Mesoscale Spatial Carbon-Intensity Variations for Low Carbon Edge Computing](https://arxiv.org/abs/2502.14076)
 * [LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention](https://arxiv.org/abs/2502.14866)
-* [LLM4FaaS: No-Code Application Development using LLMs and FaaS](https://arxiv.org/abs/2502.14450)
 
 ### 2025-02-20
 
